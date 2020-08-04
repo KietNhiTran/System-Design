@@ -3,7 +3,7 @@
 
 ## Solution architect
 
-![Solution architect diagram](images/Adapter-design.jpg)
+![Solution architect diagram](images/Adapter-XSA-Service-Design.jpg)
 
 **1) Routing and authentication / authorization**
 
