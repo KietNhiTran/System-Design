@@ -1,7 +1,7 @@
 # Solution Design Demonstration
 
 ## Why this design
-I would like to demonstrate my ability to learn, adopt company technology and well understand the design principle of a platform.
+I would like to demonstrate my ability to learn, adopt company technology and well understand the design principle of adopted platform.
 
 ## Background and context of the solution design
 This is a replatform and rearchitecure solution to move SAP ITOA into SAP Cloud Platform under SAP HANA toolings. 
