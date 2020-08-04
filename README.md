@@ -10,7 +10,7 @@ SAP ITOA originated as a monolith on-premise product providing SAP HANA monitori
 * Data Collector application
 * etc
 
-The scope of this design document is focusing on moving the data collector components as managed service to SAP cloud platform.
+The scope of this design document is focusing on moving the data collector component as managed service to SAP cloud platform.
 
 ## Solution focus:
 * serice scalability
